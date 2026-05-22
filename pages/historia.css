@@ -27,6 +27,28 @@
   padding-bottom: 1.5rem;
 }
 
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.navbar a{
+  margin: 0;
+  font-size: 1.8rem;
+  color: #DAA520;
+  background: none;
+  cursor: pointer;
+}
+
+.navbar a:hover{
+  color: var(--main-color);
+  border-bottom: 0.1rem solid var(--main-color);
+  padding-bottom: 0.5rem;
+  font-size: 2rem;
+}
+
 
 .sobre-container {
     background: #fffdf5;
