@@ -2,10 +2,13 @@
 
 /* SOBRE NÓS */
 
-.sobre-container{
+.sobre-container {
     background: #fffdf5;
     color: #13131a;
-    padding: 140px 10% 80px;
+    padding-top: 160px; /* compensa o header fixo de 12rem */
+    padding-bottom: 80px;
+    padding-left: 10%;
+    padding-right: 10%;
     position: relative;
     overflow: hidden;
 }
