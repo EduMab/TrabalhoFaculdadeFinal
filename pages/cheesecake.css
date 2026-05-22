@@ -110,7 +110,7 @@ section {
 /* MAIN */
 .fundoblack {
   margin-top: var(--header-height);
-  background-color: var(--off-white);
+  background-color: var(--white);
 }
 
 /* PRODUTOS */
